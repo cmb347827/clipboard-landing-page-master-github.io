@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+[screenshot.png](https://postimg.cc/7G3sRpMd)
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Live Github]()
+- Solution URL: [Github](https://github.com/cmb347827/clipboard-landing-page-master-github.io)
+- Live Site URL: [Live Github](https://cmb347827.github.io/clipboard-landing-page-master-github.io/)
 
 ## My process
 
