@@ -116,14 +116,14 @@ main {
 		      @include bg-color(map-get($colors,Strong Cyan),nth($fallback-colors,1));
 			  box-shadow: 5px 5px 8px lighten(map-get($colors,Strong Cyan),15);
 			  &:hover{
-			     @include bg-color(lighten(map-get($colors,Strong Cyan),12),nth($fallback-colors,1));
+			     @include bg-color(lighten(map-get($colors,Strong Cyan),5),nth($fallback-colors,1));
 			  }
 		  }
 	   div button:last-of-type{
 		     @include bg-color(map-get($colors,Light Blue),nth($fallback-colors,2));
 			 box-shadow: 5px 5px 8px lighten(map-get($colors,Light Blue),15);
 			 &:hover{
-			    @include bg-color(lighten(map-get($colors,Light Blue),12),nth($fallback-colors,2));
+			    @include bg-color(lighten(map-get($colors,Light Blue),5),nth($fallback-colors,2));
 			 }
 	   }
 	  @include bg-color(map-get($colors,White),nth($fallback-colors,5));
